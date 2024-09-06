@@ -1,0 +1,23 @@
+{
+  "name": "supriya-imdb-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "create-react-app": "^5.0.1",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1",
+    "react-hooks": "^1.0.1",
+    "react-router-dom": "^6.23.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
